@@ -54,7 +54,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("./images/background.jpg");
+  background-image: url("./background.jpg");
   background-size: cover;
   background-position: center;
   filter: grayscale(100%);
@@ -116,7 +116,7 @@
   position: relative;
   height: 100vh;
   overflow: hidden;
-  background-image: url("./images/background.jpg"); /* Add your background image */
+  background-image: url("./background.jpg"); /* Add your background image */
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Fixed background image */
@@ -215,7 +215,7 @@
 
 /* Background image for the service section with fixed position */
 .service-section {
-  background-image: url("./images/background.jpg");
+  background-image: url("./background.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
